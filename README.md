@@ -26,20 +26,11 @@ Or browse available plugins:
 
 ### gemini-images
 
-AI-powered image generation and manipulation using Google's Gemini API.
+Consistent image generation with Nano Banana Pro.
 
-**Features:**
-- Text-to-image generation
-- Image editing with natural language
-- Consistent character series
-- Product photography
-- Style variations
-- Multi-image composition
+**Core primitives:** `generate`, `edit`, `compose` - three operations that compose into any workflow.
 
-**Installation:**
-```bash
-/plugin install gemini-images@krasnoperov-plugins
-```
+**Key feature:** Reference sheets methodology for consistent characters across multiple generations.
 
 **Repository:** https://github.com/krasnoperov/gemini-images
 
