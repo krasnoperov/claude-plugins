@@ -13,12 +13,25 @@
         "source": "github",
         "repo": "krasnoperov/gemini-images"
       },
-      "description": "Consistent image generation with Nano Banana Pro - Generate images from text, edit with natural language, create consistent image series with reference sheets methodology.",
-      "version": "1.0.3",
+      "description": "Consistent image generation with Gemini - Create 2D game sprites, characters, and environments with visual consistency using reference sheets methodology",
+      "version": "1.3.3",
       "author": {
         "name": "krasnoperov"
       },
       "homepage": "https://github.com/krasnoperov/gemini-images"
+    },
+    {
+      "name": "transcribe",
+      "source": {
+        "source": "github",
+        "repo": "krasnoperov/transcribe"
+      },
+      "description": "Audio/video transcription with speaker diarization, AI summarization, and infographic generation",
+      "version": "1.0.0",
+      "author": {
+        "name": "krasnoperov"
+      },
+      "homepage": "https://github.com/krasnoperov/transcribe"
     }
   ]
 }
